@@ -12,3 +12,4 @@ int main()
     int sum = func1(2,3);
     printf("%d", sum);
 }
+

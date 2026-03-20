@@ -16,3 +16,4 @@ int main()
     func2(arr);
     return 0;
 }
+
